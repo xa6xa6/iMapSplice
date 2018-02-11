@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef READ_SEQ_PREPROCESSING_H
 #define READ_SEQ_PREPROCESSING_H
 

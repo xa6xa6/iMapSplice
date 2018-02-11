@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef REMAPPING_PATH_HASH_INFO_H
 #define REMAPPING_PATH_HASH_INFO_H
 

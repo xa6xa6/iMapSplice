@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef ANNOTATION_STRAND_INFO_H
 #define ANNOTATION_STRAND_INFO_H
 

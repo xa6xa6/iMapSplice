@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 // 0 -- exactly the same
 // 1 -- totally different
 // 2 -- overlapped, but contradictory in some bases

@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef TRANSCRIPT_SET_H
 #define TRANSCRIPT_SET_H
 #include "index_info.h"

@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 // required: alignment file should be in SAM format
 
 #ifndef ALIGNMENTINFOTOCHECKMISMATCH_H

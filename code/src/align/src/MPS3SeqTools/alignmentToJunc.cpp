@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 // input: SAM files
 // output: SJ  
 // (chr_name pos_donerEnd pos_acceptorStart SJ_name 

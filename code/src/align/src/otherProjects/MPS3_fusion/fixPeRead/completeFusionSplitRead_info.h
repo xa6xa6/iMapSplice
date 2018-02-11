@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef COMPLETEFUSIONSPLITREAD_INFO_H
 #define COMPLETEFUSIONSPLITREAD_INFO_H
 

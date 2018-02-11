@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef FIXDOUBLEANCHORDELETION_INFO_H
 #define FIXDOUBLEANCHORDELETION_INFO_H
 

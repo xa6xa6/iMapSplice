@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef SPLICESITEHASH_INFO_H
 #define SPLICESITEHASH_INFO_H
 

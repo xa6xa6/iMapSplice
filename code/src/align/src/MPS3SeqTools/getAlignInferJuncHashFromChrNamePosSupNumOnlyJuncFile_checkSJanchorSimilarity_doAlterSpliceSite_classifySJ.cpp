@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 // input: alignerInferJunc raw file,  
 // format: chrName chrStartPos chrEndPos JuncName supportNum
 // Note: can specify the mode of classification,

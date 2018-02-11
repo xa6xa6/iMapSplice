@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 // used to get softclipped base numbers distribution
 #include <stdio.h>
 #include <stdlib.h>

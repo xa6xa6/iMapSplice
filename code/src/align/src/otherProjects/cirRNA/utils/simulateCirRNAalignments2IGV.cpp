@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 // used to simulate fake-alignments to show backSplice junctions in IGV
 // generate from backSplcie junctions,
 // output SAM format alignments file

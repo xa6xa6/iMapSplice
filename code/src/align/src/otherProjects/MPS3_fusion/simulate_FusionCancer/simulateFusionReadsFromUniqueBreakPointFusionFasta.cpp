@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #include <malloc.h>
 #include <string.h>
 #include <iostream>

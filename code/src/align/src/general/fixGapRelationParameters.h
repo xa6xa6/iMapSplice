@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 
 bool DO_REMAPPING_DuringFirstMapping= false;
 bool BUILD_SPLICE_HASH_FROM_FILE = true;

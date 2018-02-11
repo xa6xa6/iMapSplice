@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef ENHANCED_SUFFIX_ARRAY_INFO_H
 #define ENHANCED_SUFFIX_ARRAY_INFO_H
 

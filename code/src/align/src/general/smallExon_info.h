@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 #ifndef SMALLEXONHASH_INFO_H
 #define SMALLEXONHASH_INFO_H
 

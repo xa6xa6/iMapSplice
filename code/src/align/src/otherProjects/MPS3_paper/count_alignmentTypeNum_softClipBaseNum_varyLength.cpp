@@ -1,3 +1,4 @@
+// This file is a part of iMapSplice. Please refer to LICENSE.TXT for the LICENSE
 //used to count aligment type number 
 //(total unsplied, single-spliced, multi-spliced) for primary ones
 //used to count soft clipped bases for primary ones
