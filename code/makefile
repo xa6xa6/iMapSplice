@@ -1,4 +1,4 @@
-all: iMapSplice-phased iMapSplice-unphased getSNPmer-phased getSNPmer-unphased buildWholeGenome build2ndLevelIndex buildWholeGenome_mergedFa_noPreIndex
+all: iMapSplice-phased iMapSplice-unphased getSNPmer-phased getSNPmer-unphased buildWholeGenome build2ndLevelIndex buildSNPmerIndex
 
 OPTFLAGS = -O0 -g -rdynamic -std=c++0x
 OUTPUTDIR = ./
