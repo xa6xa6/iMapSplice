@@ -6,7 +6,7 @@ University of Kentucky, Lexington, KY, USA
 All rights reserved.
 
 The University of Kentucky (“UKY”) and the developers (“Developer”) of UKY
-Software MapSplice3 (“Software”) give recipient (“Recipient”) and 
+Software iMapSplice (“Software”) give recipient (“Recipient”) and 
 Recipient’s Institution (“Institution”) permission to use, copy, and
 modify the software in source and binary forms, with or without 
 modification for non-profit research purposes only provided that 
