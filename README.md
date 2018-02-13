@@ -82,13 +82,13 @@ iMapSplice has been tested on Linux platforms with the following system settings
     ./iMapSplice-phased -P <input_SNPlist_path(phased)> -Q <input_SNPmerIndex_folder_path> -G <input_globalIndex_folder_path> -L <input_localIndex_folder_path> -1 <read_end1> -2 <read_end2> -T <threads_num> -O <output_folder>
     ```
    
-   __or__
+    __or__
    
-   Mapping with unphased SNPs
+    Mapping with unphased SNPs
    
-   ```
+    ```
     ./iMapSplice-unphased -P <input_SNPlist_path(unphased)> -Q <input_SNPmerIndex_folder_path> -G <input_globalIndex_folder_path> -L <input_localIndex_folder_path> -1 <read_end1> -2 <read_end2> -T <threads_num> -O <output_folder>
-   ```
+    ```
     
 ### License
 Please refer to LICENSE.txt
