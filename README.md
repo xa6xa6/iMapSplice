@@ -38,16 +38,18 @@ iMapSplice has been tested on Linux platforms with the following system settings
     
 2. Generating SNP-mers
    
-    2.1 Generating SNP-mers with phased SNPs
+    Generating SNP-mers with phased SNPs
     
     ```
-    ./getSNPmer-phased <input_globalIndex_folder_path> <input_GAF_path> <input_SNPlist_path> <output_SNPmer_folder_path> <SNPmer_length>
+    ./getSNPmer-phased <input_globalIndex_folder_path> <input_GAF_path> <input_SNPlist_path(phased)> <output_SNPmer_folder_path> <SNPmer_length>
     ```    
     
-    2.2 Generating SNP-mers with unphased SNPs
+    __or__
+    
+    Generating SNP-mers with unphased SNPs
     
     ```
-    ./getSNPmer-unphased <input_globalIndex_folder_path> <input_GAF_path> <input_SNPlist_path> <output_SNPmer_folder_path> <SNPmer_length>
+    ./getSNPmer-unphased <input_globalIndex_folder_path> <input_GAF_path> <input_SNPlist_path(unphased)> <output_SNPmer_folder_path> <SNPmer_length>
     ```    
        
     Note: SNP list (tab delimited, four columns):
@@ -73,10 +75,20 @@ iMapSplice has been tested on Linux platforms with the following system settings
     ```
   
  4. Mapping
+   
+    Mapping with phased SNPs
     
     ```
-    ./iMapSplice -P <input_SNPlist_path> -Q <input_SNPmerIndex_folder_path> -G <input_globalIndex_path> -1 <read_end1> -2 <read_end2> -T <threads_num> -O <output_folder>
+    ./iMapSplice-phased -P <input_SNPlist_path(phased)> -Q <input_SNPmerIndex_folder_path> -G <input_globalIndex_folder_path> -L <input_localIndex_folder_path> -1 <read_end1> -2 <read_end2> -T <threads_num> -O <output_folder>
     ```
    
+   __or__
+   
+   Mapping with unphased SNPs
+   
+   ```
+    ./iMapSplice-unphased -P <input_SNPlist_path(unphased)> -Q <input_SNPmerIndex_folder_path> -G <input_globalIndex_folder_path> -L <input_localIndex_folder_path> -1 <read_end1> -2 <read_end2> -T <threads_num> -O <output_folder>
+   ```
+    
 ### License
 Please refer to LICENSE.txt
