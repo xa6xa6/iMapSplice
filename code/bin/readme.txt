@@ -1,6 +1,6 @@
 7 tools after make all in total:
 
-3 Mapping tools:
+2 Mapping tools:
 iMapSplice-phased 
 iMapSplice-unphased 
 
