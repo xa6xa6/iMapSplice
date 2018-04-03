@@ -30,6 +30,14 @@ iMapSplice has been tested on Linux platforms with the following system settings
     
 ### Manual
 1. Building reference genome index (MapSplice index, only need to run once, shared by all the individuals)
+
+    Note: before building index, you need to put all the sequence files of reference genome into a directory (like /PATH/hg19/). And all the   sequence files are required to be in the following format:
+
+    (1) In "FASTA" format, with ".fa" extension.
+    (2) One chromosome per sequence file.
+    (3) Chromosome name in the header line (">" not included) is the same as the sequence file base name, and does not contain any blank space. E.g. If the header line is ">chr1", then the sequence file name should be "chr1.fa".
+    (5) No other files in the same folder.
+
     
     ```
     ./buildWholeGenome <input_chromosomes_folder_path> <output_globalIndex_folder_path>
